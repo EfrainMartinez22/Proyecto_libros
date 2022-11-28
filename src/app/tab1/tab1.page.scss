@@ -1,0 +1,14 @@
+ion-badge {
+    margin-right: 20px;
+    position: absolute;
+    right: 0PX;
+    top: 10PX;
+}
+
+ion-icon[name="logo-buffer"]{
+    color: black;
+}
+
+ion-buttons[slot="end"] > ion-button.cart {
+    margin-right: 20px;
+}
